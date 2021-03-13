@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Years Badge](https://badges.pufler.dev/years/IgorKha)](https://badges.pufler.dev)
 <!--
 **IgorKha/igorkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
